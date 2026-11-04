@@ -1,0 +1,11 @@
+{
+  "date": "2026-11-04",
+  "source_doi": "10.1099/mgen.0.001672",
+  "projects": [
+    "PRJEB94355",
+    "PRJEB89903"
+  ],
+  "selection": "All seven PRJEB94355 records and the first five Escherichia and five Pseudomonas PRJEB89903 records sorted by SHA256 of accession, before sequence similarity screening and model inference. Host genus inferred from ENA scientific_name, requires source-table confirmation. No performance-based exclusion.",
+  "screen": "Exact project genome match; Q2 megablast HSP identity >=95%, union query and subject >=80%; component selection and high-identity flags to be reported, not independence proven.",
+  "independence": "Different paper, not established source/laboratory or pretraining independent; published reference phages and replicate genomes possible."
+}

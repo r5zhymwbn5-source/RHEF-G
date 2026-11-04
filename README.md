@@ -32,4 +32,3 @@ No license has yet been specified for the author's code and trained weights. Do 
 ## Integrity
 
 `SHA256SUMS` records every repository file except the manifest itself. `analysis_replay/SHA256SUMS` separately covers the files in that folder as originally staged.
-

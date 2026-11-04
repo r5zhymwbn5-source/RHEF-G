@@ -1,0 +1,10 @@
+accession,truth,pred,predicted_proteins,blast_top_hit_genus,blast_top_hsp_bitscore
+OZ347390,enterobacter,enterobacter,343,enterobacter,38343.0
+OZ347388,enterobacter,enterobacter,299,enterobacter,38343.0
+OZ346213,escherichia,escherichia,62,escherichia,141.0
+OZ346219,escherichia,escherichia,270,acinetobacter,65.8
+OZ318576,pseudomonas,pseudomonas,364,pseudomonas,15592.0
+OZ317769,pseudomonas,pseudomonas,364,pseudomonas,15592.0
+OZ319326,pseudomonas,pseudomonas,15,pseudomonas,9116.0
+OZ318230,pseudomonas,pseudomonas,364,pseudomonas,15592.0
+OZ319327,pseudomonas,pseudomonas,9,pseudomonas,2407.0

@@ -1,0 +1,267 @@
+{
+  "scope": "Metadata/title verification only; article full text and every bibliographic field not independently checked.",
+  "results": [
+    {
+      "key": "abmil",
+      "bib_title": "Attention-based Deep Multiple Instance Learning",
+      "url": "https://proceedings.mlr.press/v80/ilse18a.html",
+      "title_present_on_page": true,
+      "status": "publisher_page_retrieved",
+      "bib_source": "paper\\architecture_revision\\refs_new.bib"
+    },
+    {
+      "key": "blast_jmm",
+      "doi": "10.1186/1471-2105-10-421",
+      "bib_title": "BLAST+: architecture and applications",
+      "source_title": "BLAST+: architecture and applications",
+      "title_exact_normalized": true,
+      "source_year": 2009,
+      "source_authors": [
+        "Christiam Camacho",
+        "George Coulouris",
+        "Vahram Avagyan",
+        "Ning Ma",
+        "Jason Papadopoulos",
+        "Kevin Bealer",
+        "Thomas L Madden"
+      ],
+      "status": "crossref_retrieved",
+      "bib_source": "paper\\architecture_revision\\submission_jmm\\methods_refs.bib"
+    },
+    {
+      "key": "diamond_jmm",
+      "doi": "10.1038/s41592-021-01101-x",
+      "bib_title": "Sensitive protein alignments at tree-of-life scale using DIAMOND",
+      "source_title": "Sensitive protein alignments at tree-of-life scale using DIAMOND",
+      "title_exact_normalized": true,
+      "source_year": 2021,
+      "source_authors": [
+        "Benjamin Buchfink",
+        "Klaus Reuter",
+        "Hajk-Georg Drost"
+      ],
+      "status": "crossref_retrieved",
+      "bib_source": "paper\\architecture_revision\\submission_jmm\\methods_refs.bib"
+    },
+    {
+      "key": "distributionmil",
+      "doi": "10.1016/j.media.2023.102813",
+      "bib_title": "Distribution based MIL pooling filters: Experiments on a lymph node metastases dataset",
+      "source_title": "Distribution based MIL pooling filters: Experiments on a lymph node metastases dataset",
+      "title_exact_normalized": true,
+      "source_year": 2023,
+      "source_authors": [
+        "Mustafa Umit Oner",
+        "Jared Marc Song Kye-Jet",
+        "Hwee Kuan Lee",
+        "Wing-Kin Sung"
+      ],
+      "status": "crossref_retrieved",
+      "bib_source": "paper\\architecture_revision\\refs_new.bib"
+    },
+    {
+      "key": "esm2",
+      "doi": "10.1126/science.ade2574",
+      "bib_title": "Evolutionary-scale prediction of atomic-level protein structure with a language model",
+      "source_title": "Evolutionary-scale prediction of atomic-level protein structure with a language model",
+      "title_exact_normalized": true,
+      "source_year": 2023,
+      "source_authors": [
+        "Zeming Lin",
+        "Halil Akin",
+        "Roshan Rao",
+        "Brian Hie",
+        "Zhongkai Zhu",
+        "Wenting Lu",
+        "Nikita Smetanin",
+        "Robert Verkuil",
+        "Ori Kabeli",
+        "Yaniv Shmueli",
+        "Allan dos Santos Costa",
+        "Maryam Fazel-Zarandi",
+        "Tom Sercu",
+        "Salvatore Candido",
+        "Alexander Rives"
+      ],
+      "status": "crossref_retrieved",
+      "bib_source": "paper\\manuscript_harp\\refs.bib"
+    },
+    {
+      "key": "evomil",
+      "doi": "10.1371/journal.pcbi.1012597",
+      "bib_title": "Prediction of virus-host associations using protein language models and multiple instance learning",
+      "source_title": "Prediction of virus-host associations using protein language models and multiple instance learning",
+      "title_exact_normalized": true,
+      "source_year": 2024,
+      "source_authors": [
+        "Dan Liu",
+        "Francesca Young",
+        "Kieran D. Lamb",
+        "David L. Robertson",
+        "Ke Yuan"
+      ],
+      "status": "crossref_retrieved",
+      "bib_source": "paper\\manuscript_harp\\refs.bib"
+    },
+    {
+      "key": "fusionphi",
+      "doi": "10.1371/journal.pone.0356238",
+      "bib_title": "FusionPHI: A phage-host interaction prediction network model based on attention-driven multi-modal feature fusion",
+      "source_title": "FusionPHI: A phage-host interaction prediction network model based on attention-driven multi-modal feature fusion",
+      "title_exact_normalized": true,
+      "source_year": 2026,
+      "source_authors": [
+        "Xiangjun Li",
+        "Ruitao Li",
+        "Zhui Tu",
+        "Qingting Wei"
+      ],
+      "status": "crossref_retrieved",
+      "bib_source": "paper\\architecture_revision\\refs_new.bib"
+    },
+    {
+      "key": "mcat",
+      "doi": "10.1109/iccv48922.2021.00398",
+      "bib_title": "Multimodal Co-Attention Transformer for Survival Prediction in Gigapixel Whole Slide Images",
+      "source_title": "Multimodal Co-Attention Transformer for Survival Prediction in Gigapixel Whole Slide Images",
+      "title_exact_normalized": true,
+      "source_year": 2021,
+      "source_authors": [
+        "Richard J. Chen",
+        "Ming Y. Lu",
+        "Wei-Hung Weng",
+        "Tiffany Y. Chen",
+        "Drew FK. Williamson",
+        "Trevor Manz",
+        "Maha Shady",
+        "Faisal Mahmood"
+      ],
+      "status": "crossref_retrieved",
+      "bib_source": "paper\\architecture_revision\\refs_new.bib"
+    },
+    {
+      "key": "moeph",
+      "doi": "10.3389/fmicb.2025.1634705",
+      "bib_title": "MoEPH: an adaptive fusion-based LLM for predicting phage-host interactions in health informatics",
+      "source_title": "MoEPH: an adaptive fusion-based LLM for predicting phage-host interactions in health informatics",
+      "title_exact_normalized": true,
+      "source_year": 2025,
+      "source_authors": [
+        "Qian Chen",
+        "Zihang Zhao",
+        "Min Li",
+        "Wenchen Song",
+        "Minfeng Xiao",
+        "Min Fang"
+      ],
+      "status": "crossref_retrieved",
+      "bib_source": "paper\\architecture_revision\\refs_new.bib"
+    },
+    {
+      "key": "php_jmm",
+      "doi": "10.1186/s12915-020-00938-6",
+      "bib_title": "Prokaryotic virus host predictor: a Gaussian model for host prediction of prokaryotic viruses in metagenomics",
+      "source_title": "Prokaryotic virus host predictor: a Gaussian model for host prediction of prokaryotic viruses in metagenomics",
+      "title_exact_normalized": true,
+      "source_year": 2021,
+      "source_authors": [
+        "Congyu Lu",
+        "Zheng Zhang",
+        "Zena Cai",
+        "Zhaozhong Zhu",
+        "Ye Qiu",
+        "Aiping Wu",
+        "Taijiao Jiang",
+        "Heping Zheng",
+        "Yousong Peng"
+      ],
+      "status": "crossref_retrieved",
+      "bib_source": "paper\\architecture_revision\\submission_jmm\\methods_refs.bib"
+    },
+    {
+      "key": "pst",
+      "doi": "10.1038/s41467-025-66049-4",
+      "bib_title": "Protein Set Transformer: a protein-based genome language model to power high-diversity viromics",
+      "source_title": "Protein Set Transformer: a protein-based genome language model to power high-diversity viromics",
+      "title_exact_normalized": true,
+      "source_year": 2025,
+      "source_authors": [
+        "Cody Martin",
+        "Anthony Gitter",
+        "Karthik Anantharaman"
+      ],
+      "status": "crossref_retrieved",
+      "bib_source": "paper\\manuscript_harp\\refs.bib"
+    },
+    {
+      "key": "pyani_jmm",
+      "doi": "10.1039/c5ay02550h",
+      "bib_title": "Genomics and taxonomy in diagnostics for food security: soft-rotting enterobacterial plant pathogens",
+      "source_title": "Genomics and taxonomy in diagnostics for food security: soft-rotting enterobacterial plant pathogens",
+      "title_exact_normalized": true,
+      "source_year": 2016,
+      "source_authors": [
+        "Leighton Pritchard",
+        "Rachel H. Glover",
+        "Sonia Humphris",
+        "John G. Elphinstone",
+        "Ian K. Toth"
+      ],
+      "status": "crossref_retrieved",
+      "bib_source": "paper\\architecture_revision\\submission_jmm\\methods_refs.bib"
+    },
+    {
+      "key": "pyrodigal_jmm",
+      "doi": "10.21105/joss.04296",
+      "bib_title": "Pyrodigal: Python bindings and interface to Prodigal,\nan efficient method for gene prediction in prokaryotes",
+      "source_title": "Pyrodigal: Python bindings and interface to Prodigal,\nan efficient method for gene prediction in prokaryotes",
+      "title_exact_normalized": true,
+      "source_year": 2022,
+      "source_authors": [
+        "Martin Larralde"
+      ],
+      "status": "crossref_retrieved",
+      "bib_source": "paper\\architecture_revision\\submission_jmm\\methods_refs.bib"
+    },
+    {
+      "key": "settransformer",
+      "bib_title": "Set Transformer: A Framework for Attention-based Permutation-Invariant Neural Networks",
+      "url": "https://proceedings.mlr.press/v97/lee19d.html",
+      "title_present_on_page": true,
+      "status": "publisher_page_retrieved",
+      "bib_source": "paper\\architecture_revision\\refs_new.bib"
+    },
+    {
+      "key": "sourmash_jmm",
+      "doi": "10.21105/joss.00027",
+      "bib_title": "sourmash: a library for MinHash sketching of DNA",
+      "source_title": "sourmash: a library for MinHash sketching of DNA",
+      "title_exact_normalized": true,
+      "source_year": 2016,
+      "source_authors": [
+        "C. Titus Brown",
+        "Luiz Irber"
+      ],
+      "status": "crossref_retrieved",
+      "bib_source": "paper\\architecture_revision\\submission_jmm\\methods_refs.bib"
+    },
+    {
+      "key": "wish_jmm",
+      "doi": "10.1093/bioinformatics/btx383",
+      "bib_title": "WIsH: who is the host? Predicting prokaryotic hosts from metagenomic phage contigs",
+      "source_title": "WIsH: who is the host? Predicting prokaryotic hosts from metagenomic phage contigs",
+      "title_exact_normalized": true,
+      "source_year": 2017,
+      "source_authors": [
+        "Clovis Galiez",
+        "Matthias Siebert",
+        "François Enault",
+        "Jonathan Vincent",
+        "Johannes Söding"
+      ],
+      "status": "crossref_retrieved",
+      "bib_source": "paper\\architecture_revision\\submission_jmm\\methods_refs.bib"
+    }
+  ],
+  "missing_bib_keys": []
+}

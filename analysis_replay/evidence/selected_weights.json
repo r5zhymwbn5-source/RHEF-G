@@ -1,0 +1,20 @@
+{
+  "modes": [
+    "dna",
+    "deepsets",
+    "conditioned_no_moments",
+    "conditioned"
+  ],
+  "weights": [
+    0.35,
+    0.05,
+    0.45,
+    0.15
+  ],
+  "validation": {
+    "macro_f1": 0.8396668023804063,
+    "accuracy": 0.9220582671206962,
+    "mcc": 0.9166722116863898
+  },
+  "candidate_count": 1771
+}

@@ -1,0 +1,53 @@
+{
+  "version": "cdep-experiment-lock-1.0",
+  "client_date": "2026-10-26",
+  "client_timezone": "Asia/Shanghai",
+  "protocols": [
+    "Q2-canonical30",
+    "Q3-unseen-genus"
+  ],
+  "seeds": [
+    42,
+    2024,
+    777
+  ],
+  "modes": [
+    "mean",
+    "dna",
+    "mean_dna",
+    "deepsets",
+    "protein_slots",
+    "static_slots",
+    "conditioned_no_moments",
+    "conditioned"
+  ],
+  "epochs": 60,
+  "steps_per_epoch": 180,
+  "batch_size": 72,
+  "lr": 0.001,
+  "weight_decay": 0.0001,
+  "dropout": 0.2,
+  "optimizer": "AdamW",
+  "clip_grad_norm": 1.0,
+  "torch_float32_matmul_precision": "highest",
+  "temperature_or_auxiliary_loss": "none; global CE only",
+  "primary_contrast": "Q2 conditioned minus static_slots, global-head Macro F1",
+  "model_selection": "validation Macro F1 only; earliest maximum checkpoint; no test tuning",
+  "test_policy": "do not export test until all48 fixed configurations trained; diagnostic probes only afterward",
+  "q3_policy": "same frozen200fivewayepisodes1/5/10shots; use embeddings, closedsettestzero is structural",
+  "perturbations": "predefined query-onlyDNA permutation,fullDNApermutation,top10%proteinbranchmask,3matchedrandom masks",
+  "sources": {
+    "models/composition_evidence.py": "90042e5dfda3f36e06926c9ea24e9ce04844082bb72a09c59fc3a7a22483291a",
+    "experiments/run_composition_evidence.py": "6c04d5943bcc0dccdfdbeb4db0d303d4e35b7438d2933e62cf289664ce25dcdc",
+    "scripts/build_composition_evidence_cache.py": "247e126f270f8427376be31a4899a69315643829c5293cfccb5b619f665e39f1",
+    "data/composition_evidence_data.py": "c3a247d9624909b86e94469c3b855916a2b2ea33c787646060fd81edc3b38968",
+    "scripts/_kmer_host_models.py": "36ce6612ffa83ea19f04424ab0585dab0b04b6defe2ccf966304693f26828f26",
+    "paper/architecture_revision/EXPERIMENT_PLAN.md": "964a3f627fe7f193c1aba05f7487150e756e7f9ff313a962e03698c0ef9c78ed",
+    "features/DatasetG/architecture_revision/Q2-canonical30/manifest.json": "5979558f0389f382201fe02bb887153617468f654bc360677c0e53fc42272700",
+    "checkpoints/harp_revision/splits/Q2-canonical30/split.npz": "815eae8277c2b8c55e87478ce1979874b385a200d56ab3e3c984e30efcc914d0",
+    "features/DatasetG/architecture_revision/Q3-unseen-genus/manifest.json": "57cf3ba24264784d2186b8c964c6b06104c73b6e9c98748d27b6fd3c060af252",
+    "checkpoints/harp_revision/splits/Q3-unseen-genus/split.npz": "1ecc4afff4e7d013d1ec21f50659fab612a254e4bddd5929577833d5d67d34fa",
+    "results/harp_revision/v2/fewshot/frozen_episodes.npz": "c742718d8dae6e85a2334ed6c0fc5ddcb0524fa91d7c33d9205d78bc3d24bb13"
+  },
+  "test_prediction_files_at_lock": 0
+}

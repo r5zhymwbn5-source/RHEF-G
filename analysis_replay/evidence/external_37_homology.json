@@ -1,0 +1,10 @@
+{
+  "n": 37,
+  "historic_subset_at_least_one_protein": 36,
+  "historic_subset_plus_targeted_hit": 37,
+  "exact_q2_training_protein": 13,
+  "q2_50pct_homology_audited": 37,
+  "q2_50pct_homology_flagged": 37,
+  "pt_train_corpus_query80_flag": 0,
+  "caveat": "Historical reference is Swiss-Prot plus 12 third-party tokenized files, per-shard heuristic search. Q2 protein test identity>=50% with >=80% query and subject coverage; HtPIP screened separately against the same Q2 training reference. PT flag exclusion is 95% HSP union query coverage>=80%, not ANI. Any protein hit is not necessarily label leakage; no-hit is not proof of no exposure."
+}

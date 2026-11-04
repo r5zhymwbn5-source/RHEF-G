@@ -1,0 +1,42 @@
+{
+  "status": "complete",
+  "rhef_g": {
+    "macro_f1": 0.7842552849326749,
+    "accuracy": 0.8865030674846626,
+    "mcc": 0.87939945764003,
+    "n": 2608
+  },
+  "deepsets_ensemble": {
+    "macro_f1": 0.7611827108254325,
+    "accuracy": 0.8508435582822086,
+    "mcc": 0.8405899240675038,
+    "n": 2608
+  },
+  "macro_f1_difference": 0.023072574107242394,
+  "paired_canonical_component_bootstrap": {
+    "draws": 2000,
+    "seed": 2026,
+    "ci95": [
+      -0.009429049070989962,
+      0.04515547935465781
+    ],
+    "probability_positive": 0.9015,
+    "scope": "Conditional on the fixed split, frozen experts, and reused database test protocol."
+  },
+  "zero_exact_training_protein_overlap": {
+    "rhef_g": {
+      "macro_f1": 0.6707805386463194,
+      "accuracy": 0.832258064516129,
+      "mcc": 0.8196753945502333,
+      "n": 775
+    },
+    "deepsets_ensemble": {
+      "macro_f1": 0.6198942558925797,
+      "accuracy": 0.8116129032258065,
+      "mcc": 0.7970808747342001,
+      "n": 775
+    },
+    "difference": 0.05088628275373963,
+    "n": 775
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "pool_n": 70,
+  "components": 66,
+  "mixed_genus_excluded": 0,
+  "selected_n": 37,
+  "by_genus": {
+    "aeromonas": 5,
+    "arthrobacter": 5,
+    "bacteroides": 5,
+    "enterobacter": 5,
+    "escherichia": 1,
+    "flavobacterium": 5,
+    "microbacterium": 5,
+    "pseudomonas": 5,
+    "serratia": 1
+  },
+  "by_source": {
+    "minor": 24,
+    "boreal": 12,
+    "htpip": 1
+  },
+  "correct": {
+    "rhef": 31,
+    "clean": 31,
+    "perturb": 29,
+    "weighted": 31,
+    "residual": 31,
+    "blast": 24,
+    "wish": 13,
+    "php": 16,
+    "phagetransformer_strict": 22
+  },
+  "warning": "Post hoc after observing constituent outcomes, not a prospective validation; 95%-identity HSP connected components are not ANI or independence, methods use different information, PT genus taxonomy not harmonized, ESM overlap unresolved."
+}

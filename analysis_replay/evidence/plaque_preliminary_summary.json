@@ -1,0 +1,29 @@
+{
+  "n": 9,
+  "correct": 9,
+  "macro_f1_true_genus": 1.0,
+  "components_95id_80both": [
+    [
+      "OZ347390",
+      "OZ347388"
+    ],
+    [
+      "OZ346213"
+    ],
+    [
+      "OZ346219"
+    ],
+    [
+      "OZ318576",
+      "OZ317769",
+      "OZ318230"
+    ],
+    [
+      "OZ319326"
+    ],
+    [
+      "OZ319327"
+    ]
+  ],
+  "warning": "Preliminary; labels inferred from ENA phage organism names, not source-table verified. A top-HSP nearest-Q2 BLAST comparator was run; ESM pretraining audit, ANI, public-tool overlap and source independence are not confirmed; repeated sequences; initial case mismatch corrected."
+}
