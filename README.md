@@ -27,7 +27,7 @@ The bundle does not contain the complete source genomes or CDS datasets, full pr
 
 ## License and release status
 
-No license has yet been specified for the author's code and trained weights. Do not infer reuse permission from repository visibility. The owner must confirm rights and select an appropriate license before reuse or redistribution. The repository is a research artifact and should be independently verified by its users.
+The author-owned code and trained RHEF-G expert weights in this repository are made available under the MIT License; see `LICENSE`. Third-party models, software and datasets retain their own licenses and are not relicensed here. Users are responsible for observing those terms and independently verifying research artifacts.
 
 ## Integrity
 
