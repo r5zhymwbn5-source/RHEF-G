@@ -1,6 +1,6 @@
 # RHEF-G
 
-Research artifacts for *Reliability-Weighted Heterogeneous Evidence Fusion for Phage鈥揌ost Genus Prediction*, a genus-level prediction method using DNA composition and protein-derived features. The test set was used repeatedly during development. The component-bootstrap interval for the main comparison crosses zero, and the available external cohorts do not establish independent validation or broad superiority. Predictions do not demonstrate infection.
+Research artifacts for *Reliability-Weighted Heterogeneous Evidence Fusion for Phage-Host Genus Prediction*, a genus-level prediction method using DNA composition and protein-derived features. The test set was used repeatedly during development. The component-bootstrap interval for the main comparison crosses zero, and the available external cohorts do not establish independent validation or broad superiority. Predictions do not demonstrate infection.
 
 ## Contents
 
